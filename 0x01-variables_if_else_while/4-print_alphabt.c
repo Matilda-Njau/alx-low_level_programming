@@ -7,7 +7,7 @@ int main()
 	{
 	if(alphabet == 'e' || alphabet == 'q')
 	continue;
-		putchar(alphabet);
+	putchar(alphabet);
 	}
 	putchar('\n');
 
