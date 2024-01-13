@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* function prints different numbers when the condition runs true */
+/* This program will assign a random number to the variable n each time it is executed */
 int main(void)
 {
 	int n;
@@ -20,7 +20,6 @@ int main(void)
 	else
 	{
 		printf("%d is negative\n", n);
-	}
-	
+	}	
 	return (0);
-} 
+}
